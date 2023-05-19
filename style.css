@@ -5,7 +5,7 @@
 	font-family: 'Poppins', sans-serif;
 }
 body{
-    background-color: antiquewhite;
+    background-color: rgb(132, 105, 240);
 }
 header{
 	width: 100%;
@@ -13,7 +13,7 @@ header{
 }
 
 .logo{
-	font-size: 2em;
+	font-size: 3em;
 	font-weight: bolder;
 	display: flex;
 }
@@ -45,7 +45,7 @@ nav{
 
 .menu a{
 	text-decoration: none;
-	color: #9e0dc2;
+	color: #e5401b;
 	font-weight: bold;
 	font-size: 1.2rem;
 	padding: 10px 20px;
